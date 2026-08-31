@@ -1,7 +1,7 @@
 <h1 data-importer="text" align="center"> 🔴 Programação Back-End Java ☕ </h1>
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://www.vexels.com/png-svg/preview/166401/java-programming-language-icon"/>
+  <img data-importer="image" height="150" src="https://giphy.com/gifs/13HgwGsXF0aiGY"/>
 </div>
 
 <h2 data-importer="text" align="center"> 📝 Objetivos do Repositório 🏹 </h2>
