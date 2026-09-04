@@ -1,8 +1,8 @@
-package FundamentosJava;
+package ExerciciosIntroducaoJava;
 
 import java.util.Scanner;
 
-public class CondicoesJava02 {
+public class Questao02 {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
